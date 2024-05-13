@@ -35,10 +35,3 @@ The map used in the board of this robot:
 Its training course for beginners will be uploaded soon
 
 Contact my email for advice or guidance.
-
-# license
-You are free to change the bot or use it in the same way and there are no restrictions.
-
-
-PABFA CO.PABOT.RBV1
-
